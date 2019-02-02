@@ -1,0 +1,10 @@
+{
+	"name": "grapevine-afsm-webclient",
+	"version": "1.0.0",
+	"description": "Front end for the Grapevine game",
+	"main": "index.js",
+	"repository": "git@github.com:aFewSmartGuys/grapevine-webclient.git",
+	"author": "Grant Perdue <clevergrant@gmail.com>",
+	"license": "MIT",
+	"private": false
+}
